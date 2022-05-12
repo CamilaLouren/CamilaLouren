@@ -1,6 +1,8 @@
 <h1 align="center">Oi 👋,eu sou a Camila Lourencetti Alves</h1>
 <h3 align="center">Uma estudante de matemática, apaixonada por análise de dados</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=camilalouren&label=Profile%20views&color=0e75b6&style=flat" alt="camilalouren" /> </p>
+
 - 📖 Atualmente estou estudando **SQL, Ferramentas de BI e Phyton**
 
 - 📫 Fale comigo em **lourencetticamila@gmail.com**
